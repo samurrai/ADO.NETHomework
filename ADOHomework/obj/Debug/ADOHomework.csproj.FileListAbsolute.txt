@@ -1,0 +1,9 @@
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\bin\Debug\DB.mdf
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\bin\Debug\DB_log.ldf
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\bin\Debug\ADOHomework.exe.config
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\bin\Debug\ADOHomework.exe
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\bin\Debug\ADOHomework.pdb
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\obj\Debug\ADOHomework.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\obj\Debug\ADOHomework.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\obj\Debug\ADOHomework.exe
+C:\Users\ШадикьянР\source\repos\ADOHomework\ADOHomework\obj\Debug\ADOHomework.pdb
